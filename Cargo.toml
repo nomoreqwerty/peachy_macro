@@ -1,5 +1,5 @@
 [package]
-name = "derive"
+name = "peachy_macro"
 authors = ["nomoreqwerty <vlaadiolus@gmail.com>"]
 license = "MIT"
 version = "0.1.0"
